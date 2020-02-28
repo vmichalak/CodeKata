@@ -1,7 +1,7 @@
 Luhn
 ====
 
-La [Formule de Luhn](wikipedia-fr) ou "mod 10" a été inventé par [Hans Peter Luhn](wikipedia-author-fr) en 1954 et permet de vérifier des numéros via une clé de contrôle, elle est notamment utilisée dans les numéros de carte bancaires et les numéros de SIRET. 
+La [Formule de Luhn](wikipedia-fr) ou "mod 10" a été inventée par [Hans Peter Luhn](wikipedia-author-fr) en 1954 et permet de vérifier des numéros via une clé de contrôle, elle est notamment utilisée dans les numéros de carte bancaires et les numéros de SIRET. 
 
 Ce Kata est en deux étapes:
 - La première va être de valider si la string fourni est valide.
