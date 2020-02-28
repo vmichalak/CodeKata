@@ -1,0 +1,11 @@
+{
+  "name": "luhn-kata",
+  "author": "Valentin Michalak",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
