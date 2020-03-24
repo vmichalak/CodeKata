@@ -1,0 +1,11 @@
+{
+  "name": "spintax",
+  "author": "Valentin Michalak",
+  "main": "spintax.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
